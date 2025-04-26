@@ -6,7 +6,7 @@ Bu proje, **Grafik Teorisi** kullanılarak bilgisayar ağlarındaki trafik akı�
 
 ## Kullanılan Teknolojiler
 - Python
-- NetworkX
+- NetworkX 
 - Matplotlib
 
 ## Proje İçeriği
