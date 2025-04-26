@@ -18,17 +18,11 @@ Bu proje, **Grafik Teorisi** kullanılarak bilgisayar ağlarındaki trafik akı�
 
 - ![Ekran görüntüsü 2025-04-19 213558](https://github.com/user-attachments/assets/7ccc4e53-6de9-4b98-a887-7751de5362f0)
 
+- ![Ekran görüntüsü 2025-04-19 213620](https://github.com/user-attachments/assets/c037d36a-cdcb-40a2-8778-1919ff17318a)
+
 ## Amaç
 - Grafik teorisi uygulamaları ile ağlardaki veri akışının en verimli şekilde nasıl sağlanabileceğini göstermek.
 - Teorik bilgileri gerçek dünya problemleriyle birleştirmek.
-
-
-
-
-![Ekran görüntüsü 2025-04-19 213620](https://github.com/user-attachments/assets/c037d36a-cdcb-40a2-8778-1919ff17318a)
-
-
-
 
 
 ## Nasıl Çalıştırılır?
